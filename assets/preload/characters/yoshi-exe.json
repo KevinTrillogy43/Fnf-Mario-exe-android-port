@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "yoshiexe idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				-41
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "yoshiexe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-63
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "yoshiexe right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-193
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "yoshiexe down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				166
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yoshiexe up"
+		},
+		{
+			"offsets": [
+				756,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "death",
+			"indices": [],
+			"name": "yoshiexe death"
+		},
+		{
+			"offsets": [
+				70,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "duro",
+			"indices": [],
+			"name": "yoshiexe stare"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				270
+			],
+			"anim": "pow",
+			"fps": 24,
+			"name": "yoshiexe ground pound",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				270
+			],
+			"anim": "prepow",
+			"fps": 24,
+			"name": "yoshiexe ground pound",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yoshi_EXE_Assets",
+	"position": [
+		386,
+		667
+	],
+	"healthicon": "yoshiex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-320,
+		-460
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
